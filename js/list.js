@@ -15227,83 +15227,12 @@ const d = {
         {
       "vids": [
         {
-          "user": "Shel",
-          "link": "https://www.youtube.com/watch?v=nrjDuRNxUPE",
+          "user": "Electrx",
+          "link": "https://youtu.be/-D2lUQPFB88",
           "percent": 100,
-          "hz": "144hz"
+          "hz": "360hz"
         },
-        {
-          "user": "iRaily",
-          "link": "https://youtu.be/C6qMJUwSxgM",
-          "percent": 100,
-          "hz": "288hz"
-        },
-        {
-          "user": "Fhy1ron",
-          "link": "https://www.youtube.com/watch?v=gVQncC10Mtk",
-          "percent": 100,
-          "hz": "240hz"
-        },
-        {
-          "user": "Fallentoge",
-          "link": "https://www.youtube.com/watch?v=4L3XVVSuf18",
-          "percent": 100,
-          "hz": "Mobile"
-        },
-        {
-          "user": "Dougieman",
-          "link": "https://youtu.be/jecU_au44z4",
-          "percent": 100,
-          "hz": "Mobile"
-        },
-        {
-          "user": "T333",
-          "link": "https://www.youtube.com/watch?v=nj_sz4da4eg",
-          "percent": 100,
-          "hz": "240hz"
-        },
-        {
-          "user": "ItsMeAlex25",
-          "link": "https://www.youtube.com/watch?v=Yg4g-rk0eTA",
-          "percent": 100,
-          "hz": "240hz"
-        },
-        {
-          "user": "Excist",
-          "link": "https://www.youtube.com/watch?v=Qq9f1ohxjjE",
-          "percent": 100,
-          "hz": "144hz"
-        },
-        {
-          "user": "GDPentol",
-          "link": "https://youtu.be/gYSFF4Kbq10",
-          "percent": 84,
-          "hz": "144Hz"
-        },
-        {
-          "user": "EderGD",
-          "link": "https://www.youtube.com/watch?v=BA12ASSRWjg",
-          "percent": 84,
-          "hz": "60Hz"
-        },
-        {
-          "user": "Celsius",
-          "link": "https://youtu.be/lmOvUm55OXY",
-          "percent": 100,
-          "hz": "360Hz"
-        },
-        {
-          "user": "kri1s5",
-          "link": "https://youtu.be/TJIv9xNnWf0",
-          "percent": 100,
-          "hz": "60Hz"
-        },
-        {
-          "user": "Riptide",
-          "link": "https://youtu.be/quAcrLwfeEQ",
-          "percent": 100,
-          "hz": "60Hz"
-        },
+        
     ],
       "name": "Bloodlust",
       "author": "knobbelboy [knobbelboy]",
