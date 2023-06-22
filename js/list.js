@@ -15246,14 +15246,8 @@ const d = {
     /*=================================================================================*/
     {
       "vids": [
-        {
-          "user": "Electrx",
-          "link": "https://youtu.be/-D2lUQPFB88",
-          "percent": 100,
-          "hz": "360hz"
-        },
-        
-      ],
+       
+       ],
       "name": "Shitty Catalyze",
       "author": "Bluuper",
       "more": "none",
