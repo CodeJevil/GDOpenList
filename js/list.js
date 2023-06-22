@@ -100,7 +100,7 @@ const d = {
           "hz": "300Hz"
         },
     ],
-      "name": "Shitty Sigma",
+      "name": "Acheron",
       "author": "RadioY [Kobra456]",
       "more": "none",
       "id": 69936931,
@@ -15235,7 +15235,7 @@ const d = {
         
     ],
       "name": "Bloodlust",
-      "author": "knobbelboy [knobbelboy]",
+      "author": "knobbelboy",
       "more": "none",
       "id": 42584142,
       "pass": "121296",
@@ -15246,7 +15246,7 @@ const d = {
     /*=================================================================================*/
     {
       "vids": [
-       
+         
        ],
       "name": "Shitty Catalyze",
       "author": "Bluuper",
