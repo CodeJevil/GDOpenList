@@ -101,6 +101,7 @@ const d = {
         },
     ],
       "name": "Acheron",
+      "author": "",
       "more": "none",
       "id": 69936931,
       "pass": "Free to copy",
