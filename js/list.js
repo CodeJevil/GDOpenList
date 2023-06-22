@@ -131,7 +131,7 @@ const d = {
           "hz": "288Hz"
         },
         ],
-          "name": "Shitty Anemesis",
+      "name": "Avernus",
       "author": "strix [Tai0]",
       "more": "none",
       "id": 72816893,
