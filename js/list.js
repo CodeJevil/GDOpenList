@@ -101,7 +101,7 @@ const d = {
         },
     ],
       "name": "Acheron",
-      "author": "RadioY [Kobra456]",
+      "author": "",
       "more": "none",
       "id": 69936931,
       "pass": "Free to copy",
