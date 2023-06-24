@@ -300,7 +300,7 @@ const d = {
           "hz": "240hz"
         },
       ],
-      "name": "Shitty Visible Ray",
+      "name": "Silent Clubstep",
       "author": "HargChucu [Fhy1ron]",
       "more": "none",
       "id": 67344125,
