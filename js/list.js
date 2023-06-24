@@ -46335,7 +46335,7 @@ const d = {
       "pass": "Free to copy",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=WCJzAF1EZmk",
-      "legacykey": 0
+      "key": 150
     },
     /*=================================================================================*/
     {
